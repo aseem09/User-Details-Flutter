@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790460859645",
+    "firebase_url": "https://ai-counter.firebaseio.com",
+    "project_id": "ai-counter",
+    "storage_bucket": "ai-counter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790460859645:android:91ee65adbfd80f4c0f6a94",
+        "android_client_info": {
+          "package_name": "flutter.aseem.user_details"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790460859645-k0b3mnu4kc8vg2isac1u9c46ck7hi6sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flutter.aseem.user_details",
+            "certificate_hash": "92bd1e28118997a6e1f7067afb9981f20eea7ffc"
+          }
+        },
+        {
+          "client_id": "790460859645-9vkcur3crk7i41dq5bkh87cnv0l5ggap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCglIqQSPeVtAAL0jAO1WHIY6GYA-7YVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790460859645-9vkcur3crk7i41dq5bkh87cnv0l5ggap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
